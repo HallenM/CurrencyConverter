@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="label1">Currency Converter</string>
+    <string name="label2">Convert from A to B</string>
+    <string name="labelInfo">Choose the currensies for convert</string>
+    <string name="edittext1">First currency</string>
+    <string name="edittext2">Second currency</string>
+    <string name="view1">Name curr</string>
+    <string name="view2">Abbreviation</string>
+    <string name="btn1">Change</string>
+    <string name="btn2">Convert</string>
+    <string name="arrow">ARROW</string>
+</resources>
